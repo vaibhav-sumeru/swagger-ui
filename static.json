@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "/openapi/*": {
+      "X-Content-Type-Options": "nosniff"
+    }
+  }
+}
